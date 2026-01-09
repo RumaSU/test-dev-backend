@@ -13,7 +13,7 @@
 </head>
 <body class="p-12 bg-gray-100">
     
-    <header class="mb-8">
+    <header class="mb-8 container mx-auto">
         <div class="text-center mb-6">
             <h1 class="text-3xl font-bold text-gray-800"><?php echo $file_name; ?></h1>
             <p class="text-gray-600 mt-2">Code Preview</p>
