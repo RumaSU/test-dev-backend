@@ -1,0 +1,102 @@
+{
+    "total": 176,
+    "data": [
+        {
+            "category": "Buah",
+            "total": 43,
+            "data": {
+                "B001": {
+                    "total": 15,
+                    "data": [
+                        {
+                            "name": "Anggur",
+                            "total": 5
+                        },
+                        {
+                            "name": "Apel",
+                            "total": 10
+                        }
+                    ]
+                },
+                "B002": {
+                    "total": 28,
+                    "data": [
+                        {
+                            "name": "Pisang",
+                            "total": 8
+                        },
+                        {
+                            "name": "Pepaya",
+                            "total": 20
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "category": "Hewan",
+            "total": 65,
+            "data": {
+                "H001": {
+                    "total": 40,
+                    "data": [
+                        {
+                            "name": "Harimau",
+                            "total": 10
+                        },
+                        {
+                            "name": "Kucing",
+                            "total": 30
+                        }
+                    ]
+                },
+                "H002": {
+                    "total": 25,
+                    "data": [
+                        {
+                            "name": "Buaya",
+                            "total": 10
+                        },
+                        {
+                            "name": "Komodo",
+                            "total": 15
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "category": "Sayuran",
+            "total": 68,
+            "data": {
+                "S001": {
+                    "total": 25,
+                    "data": [
+                        {
+                            "name": "Bayam",
+                            "total": 25
+                        }
+                    ]
+                },
+                "S002": {
+                    "total": 18,
+                    "data": [
+                        {
+                            "name": "Kangkung",
+                            "total": 18
+                        }
+                    ]
+                },
+                "S003": {
+                    "total": 25,
+                    "data": [
+                        {
+                            "name": "Wortel",
+                            "total": 25
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
