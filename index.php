@@ -140,7 +140,7 @@
             $q4, 
             'table', 
             $code4,
-            'Implementasi menggunakan anonymous class dengan dynamic method calling (getter/setter) mungkin terasa berlebihan, namun dipilih untuk konsistensi dengan pattern yang sudah digunakan dan memungkinkan fleksibilitas untuk perubahan di masa depan.'
+            'Implementasi menggunakan anonymous class dengan dynamic method calling (getter/setter) mungkin terasa berlebihan, namun dipilih untuk konsistensi dengan pattern yang sudah digunakan dan memungkinkan fleksibilitas untuk perubahan.'
         ),
         view_result(
             'Section 5: Menghitung Jumlah Hewan per Jenis', 'Buat fungsi untuk menghitung jumlah hewan peliharan esa sesuai dengan jenisnya', 
